@@ -1,12 +1,17 @@
 # Primal Flame
 
-Atmospheric 2D platformer with puzzle elements, created as an educational Unity project.
+Atmospheric 2D platformer with puzzle elements, created as a team project during a game development hackathon.
 
 ## 🎮 About the Game
-Primal Flame is a story-driven 2D platformer set in a mystical prehistoric world.  
+Primal Flame is a story-driven 2D platformer set in a mystical prehistoric world.
 The player takes the role of a young shaman apprentice who must carry a sacred flame through dangerous lands filled with traps, wild creatures, and environmental puzzles.
 
 Fire is not only a narrative element, but also a core gameplay mechanic used to interact with the environment and solve puzzles.
+
+## 👥 Development Info
+- Developed during a game development hackathon
+- Team project (students)
+- Development time: **1 month**
 
 ## 🛠️ Technologies
 - Unity
@@ -24,10 +29,11 @@ Fire is not only a narrative element, but also a core gameplay mechanic used to 
 
 ## 🧠 Development Focus
 This project was created to practice:
+- Team-based development
 - Character movement and physics
-- Level design for platformers
 - Gameplay logic separation
-- Working with multiple scenes
+- Level design for platformers
+- Working with deadlines
 
 ## 🔗 Links
 🎮 Play on Itch.io: https://noidan.itch.io/primal-flame
